@@ -4,7 +4,7 @@
 
 Fastify is one of the widely used web frameworks in Node.js. It can be built easily for microservice on KintoHub!
 
-[Live Example](https://8caf94bb-c2e5-45cf-898d-ca5b19954cda.api.master.kintohub.com/fastify-example/hello/wolrd)
+[Live Example](https://8caf94bb-c2e5-45cf-898d-ca5b19954cda.api.master.kintohub.com/fastify-example/hello/world)
 
 __About KintoHub:__
 
@@ -51,7 +51,7 @@ curl -X GET http://<EnvironmentHostName>/<KintoBlockName>/hello/world
 ```
 Please refer to [Accessing API Endpoints](https://docs.kintohub.com/docs/features/operating/accessing-endpoints) for the setup instruction
 
-Try this [Live Example](https://8caf94bb-c2e5-45cf-898d-ca5b19954cda.api.master.kintohub.com/fastify-example/hello/wolrd) !
+Try this [Live Example](https://8caf94bb-c2e5-45cf-898d-ca5b19954cda.api.master.kintohub.com/fastify-example/hello/world) !
 
 ### Response
 ```json
