@@ -22,9 +22,9 @@ KintoHub aligns teams to ship & operate cloud native apps with ease. [Learn More
 
 You're now good to go! Click **Create Microservice**. Now click **Build Latest Commit**
 
-Once complete, Click *Add to Project*
+Once complete, Click **Add to Project**
 
-Follow the instruction to creating a new project. Once created, you can then click *Open* on your Ionic block and see it running live!
+Follow the instruction to creating a new project. Once created, you can then click **Open** on your Ionic block and see it running live!
 
 ## Installation & Local Run
 Ensure you have node 10 or higher.
